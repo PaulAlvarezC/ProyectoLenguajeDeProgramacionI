@@ -26,7 +26,7 @@
                     </ul>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="Controlador?accion=home">Volver</a>
+                            <a class="nav-link" href="login.jsp">Volver</a>
                         </li>
                     </ul>
                 </div>

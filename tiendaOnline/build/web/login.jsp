@@ -24,11 +24,6 @@
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         
                     </ul>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="Controlador?accion=home">Volver</a>
-                        </li>
-                    </ul>
                 </div>
             </div>
         </nav>
