@@ -48,9 +48,9 @@
                                 Configuraciones
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="Controlador?accion=Login">Iniciar Sesión</a></li>
-                                <li><hr class="dropdown-divider"></li>
-                                <li><a class="dropdown-item" href="Controlador?accion=Register">Regístrate</a></li>
+                                <li><a class="dropdown-item" href="Controlador?accion=MisProductos">Mis Productos</a></li>
+                                <li><a class="dropdown-item" href="Controlador?accion=MisCompras">Mis Compras</a></li>
+                                <li><hr class="dropdown-divider"></li>                                
                                 <li><a class="dropdown-item" href="Controlador?accion=CerrarSesion">Cerrar Sesión</a></li>
                             </ul>
                         </li>

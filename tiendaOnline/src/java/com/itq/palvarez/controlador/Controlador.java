@@ -213,6 +213,12 @@ public class Controlador extends HttpServlet {
                 }
                 request.getRequestDispatcher("Controlador?accion=home").forward(request, response);
                 break;
+            case "MisProductos":
+                
+                break;
+            case "MisCompras":
+                
+                break;
             case "CerrarSesion":
                 HttpSession objsesion = request.getSession(true);
                 objsesion.setAttribute("usuario", "");
