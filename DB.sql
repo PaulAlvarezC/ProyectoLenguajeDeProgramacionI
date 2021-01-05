@@ -81,7 +81,12 @@ ALTER TABLE `detalle_compras`
   ADD CONSTRAINT `detalle_compras_ibfk_2` FOREIGN KEY (`idCompras`) REFERENCES `compras` (`idCompras`) ON DELETE NO ACTION ON UPDATE NO ACTION;
   
   
-  
+select * from producto;
+
+insert into producto values(1,"Macbook Pro 2019",null,"Macbook Pro 2019, core i9, 16GB RAM, 1TB DISCO",1100, 10);
+insert into producto values(2,"Macbook Pro 2020",null,"Macbook Pro 2020, core i9, 32GB RAM, 2TB DISCO",2100, 10);
+insert into producto values(3,"Macbook Mid 2017",null,"Macbook Pro Mid 2017, core i5, 8GB RAM, 500GB DISCO",800, 10);
+insert into producto values(4,"Macbook Pro 2018",null,"Macbook Pro 2018, core i7, 16GB RAM, 1TB DISCO",1000, 10);
   
   
   
